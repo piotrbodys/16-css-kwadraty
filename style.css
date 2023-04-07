@@ -1,0 +1,11 @@
+body {
+    background-color: gainsboro;
+}
+
+/* za pomoca wlasciwosci css mozemy tworzyc na stronie rowniez ksztalty geomeryczne nadajac wielkosc oraz kolory*/
+div {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: orange;
+}
